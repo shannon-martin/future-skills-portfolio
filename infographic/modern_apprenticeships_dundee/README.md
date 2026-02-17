@@ -1,10 +1,24 @@
-# Modern Apprenticeships in Dundee: Participation and Gender Comparison Analysis
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; min-width: 320px;">
+      <h1>Modern Apprenticeships in Dundee: Participation and Gender Comparison Analysis</h1>
+      <br/><br/>
+      <strong>The Modern Apprentices (MA) data was selected to further explore statistics and trends relating to Dundee. The Excel data used can be found from the Skills Development Scotland site published as ‘Modern Apprenticeship Supplementary Tables Quarter 2 2025-26’.</strong>
+      <br/><br/>
+      For this analysis, the questions explored were:
+      <br/><br/>
+      <ul>
+        <li>Are there any notable imbalances in the gender distribution or the gender success rates?</li>
+        <li>How does Dundee’s enrolments and achievements compare to other regions in Scotland?</li>
+        <br/><br/>
+      </ul>
+    </td>
+    <td style="vertical-align: top; text-align: right;">
+      <img src="https://github.com/shannon-martin/future-skills-portfolio/blob/main/infographic/modern_apprenticeships_dundee/Modern%20Apprenticeships%20in%20Dundee%20Participation%20and%20Gender%20Comparison.png" />
+    </td>
+  </tr>
+</table>
 
-The Modern Apprentices (MA) data was selected to further explore statistics and trends relating to Dundee. The Excel data used can be found from the Skills Development Scotland site published as ‘Modern Apprenticeship Supplementary Tables Quarter 2 2025-26’.
-
-For this analysis, the questions explored were: 
-- Are there any notable imbalances in the gender distribution or the gender success rates?
-- How does Dundee’s enrolments and achievements compare to other regions in Scotland?
 
 ## Gender Distribution
 To explore the gender balance for MA enrolments and visualise how Dundee’s gender distribution compares with other regions in Scotland, Table 2.8: Modern Apprenticeship starts by local authority area, Q2 2023/24 to Q2 2025/26 from the data was used.
@@ -19,21 +33,25 @@ This analysis revealed that for all Scottish regions:
   <img src="https://github.com/user-attachments/assets/fe328b02-36d4-45f0-b90a-f7ccc66098aa" width="30%" />
   <img src="https://github.com/user-attachments/assets/10002da0-6366-484b-8c54-c928d84728be" width="30%" />
   <img src="https://github.com/user-attachments/assets/e70f9883-e493-4b34-b11a-66e98cb78665" width="30%" />
+  <p align="center">Figures 1, 2, and 3: 100% stacked bar chart showing the gender distribution of MAs from Q2 2023/24, Q2 2024/25, and Q2 2025/26 respectively.</p>
 </p>
-Figures 1, 2, and 3: 100% stacked bar chart showing the gender distribution of MAs from Q2 2023/24, Q2 2024/25, and Q2 2025/26 respectively.
 
 How does Dundee compare? Dundee’s gender distribution appears to be getting more equal over the years, changing from an estimated 66.13%/33.87% split in Q2 2023/24 to 60.59%/39.41% in Q2 2025/26, improving from a 32.26% gap to a 21.18% gap. This is a reduction of 11.08% in the enrolment gender gap over two years.
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c2dc1970-0097-491b-88dc-5b0342a30dfe" />
+<p align="center">
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c2dc1970-0097-491b-88dc-5b0342a30dfe" />
+  <p align="center">Figure 4: 100% stacked bar chart showing the gender distribution of MAs in Dundee from Q2 2023/24 to Q2 2025/26.</p>
+</p>
 
-Figure 4: 100% stacked bar chart showing the gender distribution of MAs in Dundee from Q2 2023/24 to Q2 2025/26. 
 
 ## Achievements
 The data for Modern Apprenticeship achievements, leavers, and achievement rate by gender, Q2 2023/24 to Q2 2025/26 found in Table 4.1 of the data shows that females achieved a higher achievement rate percentage than males within the period.
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/203982a8-79b3-4363-83c1-b4aa99bcfac7" />
+<p align="center">
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/203982a8-79b3-4363-83c1-b4aa99bcfac7" />
+  <p align="center">Figure 5: Barbell chart showing the difference in MA achievement rate percentage between gender across Scotland.</p>
+</p>
 
-Figure 5: Barbell chart showing the difference in MA achievement rate percentage between gender across Scotland.
 
 This analysis revealed that overall completion achievement rates are slightly higher among females than males, though males’ completion has improved over time.
 This could indicate that programmes with more female representation, such as healthcare and administration may have better design and support than programmes with higher male representation, such as construction and engineering. Although further analysis into these programmes would be required before any assumptions can be made. 
@@ -107,3 +125,4 @@ The gender distribution analysis concerns a real-world structural gender imbalan
 The data used contains some statistical bias as much of the gendered data was unavailable either due to anonymisation or it not existing. Instead, combined values were used to analyse the gender distribution of MAs, meaning some of the true values for ‘Female’ have been obscured and may vary in reality.
 Skills Development Scotland also clearly included a disclaimer in their data stating they have made methodological changes for how they record data. They state that they have made these changes to accommodate a new system and improve compatibility with learning provider systems, along with streamlining data handling and analysis processes which may represent a measurement bias.
 The accuracy of the data is both reliant on apprentices accurately self-reporting equality characteristics and is reliant on learning providers supplying data promptly and accurately. Many learning providers may have different frameworks to record information, which may lead to standardising issues when collecting the data.
+
