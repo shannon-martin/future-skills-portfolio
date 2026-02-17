@@ -49,4 +49,4 @@ Average charging duration was lowest in February 2025, then started to steadily 
 
 <img width="1044" height="570" alt="image" src="https://github.com/user-attachments/assets/8b3df054-1a20-4379-8092-4cfc1db6db4d" />
 
-
+I used a PivotChart with Start, Days, and Months for the Rows and Average of Duration for the Values. The initial PivotChart line graph shows the average duration of charging sessions over time across each month present in the dataset (from January 2025 to August 2025). The line graph also allows for a more precise view of average charging duration over each individual month by expanding them individually or applying filters.
