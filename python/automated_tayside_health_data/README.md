@@ -13,4 +13,4 @@ I structured my analysis as a repeatable workflow: load_data() imports the CSV, 
 
 
 ## Summary Inferential Statistics Output
-<img width="679" height="365" alt="image" src="https://github.com/user-attachments/assets/10157fde-41c9-4f12-ac72-bcf0a7c3d7d0" />
+<img width="797" height="364" alt="image" src="https://github.com/user-attachments/assets/aaf33fca-b232-4a6e-b21f-eb2b7bfd80d8" />
