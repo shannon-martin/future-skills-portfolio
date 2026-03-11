@@ -1,0 +1,156 @@
+OBJECTID,TPOREFNO,ADDRESS1,ADDRESS2,ADDRESS3,GlobalID,Year,TPOAge,FullAddress,Area
+1,17/08,Rosemeade,9 Castleroy Road,Broughty Ferry,919062a0-e806-4037-a2fa-f6004d0fe6b1,2008,18,"Rosemeade, 9 Castleroy Road, Broughty Ferry",Broughty Ferry
+2,02/12,Moyness Nursing Home,76 Grove Road,Dundee,84e0b68b-3acf-41fb-a5c7-c5b121d3f702,2012,14,"Moyness Nursing Home, 76 Grove Road",Broughty Ferry
+3,07/08,Land North Of Foggyley Gardens,Foggyley Gardens,Dundee,9b1228d3-8482-451e-95b2-8eed74b43351,2008,18,"Land North Of Foggyley Gardens, Foggyley Gardens",Lochee
+4,04/08,Wimberley Houses,Glamis Drive,"Dundee, Dd2 1Up",47ec5b49-e960-47da-9774-1e3491d3a782,2008,18,"Wimberley Houses, Glamis Drive, Dd2 1Up",West End
+5,03/09,Greenwood,3 Castleroy Road,Broughty Ferry,0d7cc36b-d12f-4b4b-ab98-b725b3a30e26,2009,17,"Greenwood, 3 Castleroy Road, Broughty Ferry",Broughty Ferry
+6,06/09,North Grange,Arbroath Road,Dundee,b9208f78-e6f4-4679-8333-008347f0e409,2009,17,"North Grange, Arbroath Road",Broughty Ferry
+7,08/84,Burnbank,Victoria Road,West Ferry,04c8e9c0-1534-43f2-8dea-f4161a34b178,1984,42,"Burnbank, Victoria Road, West Ferry",Broughty Ferry
+8,03/94,Craigiebarns House,Craigiebarn Road,Dundee,038f1faf-71ef-4adb-a8ee-31f889ce7dc3,1994,32,"Craigiebarns House, Craigiebarn Road",Craigiebank
+9,05/01,Shiell Court,Broughty Ferry,Dundee,4e91d899-a262-4696-9fdd-fcacda81799c,2001,25,"Shiell Court, Broughty Ferry",Broughty Ferry
+10,02/03,Claverhouse,Dundee,Dundee,fb5ba08e-ee00-48f8-9dd2-a30e775da056,2003,23,Claverhouse,Claverhouse
+11,02/96,23/25 Laird Street,Dundee,Dundee,22e0977d-44c6-4152-ade9-f74d7d67f29b,1996,30,23/25 Laird Street,St Marys
+12,08/04,18 Glamis Road,Dundee,Dundee,8ce37cb3-4e26-4f23-8377-4447576f6f1c,2004,22,18 Glamis Road,Menzieshill
+13,10/05,Ground At Pitalpin Hpuse,Pitalpin Street,Dundee,5e4496c6-fcc3-4f9f-9b2d-31a5f564682f,2005,21,"Ground At Pitalpin Hpuse, Pitalpin Street",Lochee
+14,01/07,81 Dundee Road,Broughty Ferry,Dundee,18896685-2ac9-4e7d-9389-bc2829e49d93,2007,19,"81 Road, Broughty Ferry",Broughty Ferry
+15,01/08,The Friary,8 To 18 Tullideph Road,Dundee,33d3010d-01af-4ad3-8b72-0f6c8553dd40,2008,18,"The Friary, 8 To 18 Tullideph Road",West End
+16,03/01,Harris Academy Annex,Logie School,Blackness Road,c63016b7-521a-4623-862d-8913d071dec8,2001,25,"Harris Academy Annex, Logie School, Blackness Road",West End
+17,03/04,The Kittiwake,Dalhousie Road,Dundee,b823c6c4-9fbb-4c61-a0be-48c6b71017ee,2004,22,"The Kittiwake, Dalhousie Road",Broughty Ferry
+18,11/07,Brook Gardens/Brook Close,Brook Street,Dundee,9afaaff6-fa80-4133-94d8-76b13bc397c0,2007,19,"Brook Gardens/Brook Close, Brook Street",Broughty Ferry
+19,12/08,Craig Gowan,42 Camphill Road,Broughty Ferry,4c9d919e-d96c-4d35-9872-dd7434f4d285,2008,18,"Craig Gowan, 42 Camphill Road, Broughty Ferry",Broughty Ferry
+20,07/12,42 Strathern Road,Dundee,Dundee,48f23d5a-73d4-4fee-9381-aea79bd1033e,2012,14,42 Strathern Road,Broughty Ferry
+21,03/12,St Ronans,Dalkeith Road,Dundee,576d0c37-f472-491b-b547-7c1f65e62161,2012,14,"St Ronans, Dalkeith Road",Craigiebank
+22,04/12,363 Perth Road,Dundee,Dundee,42bd49cc-2d69-4b3c-996e-d3f82e44f410,2012,14,363 Perth Road,Ninewells
+23,02/02,28 Long Lane,Broughty Ferry,Dundee,6cb4926b-f53b-4917-adf8-ccce1bd5558f,2002,24,"28 Long Lane, Broughty Ferry",Broughty Ferry
+24,02/09,Ardroy,53 Camphill Road,Broughty Ferry,eb0facce-4faa-44b1-b9ee-211151b34fb2,2009,17,"Ardroy, 53 Camphill Road, Broughty Ferry",Broughty Ferry
+25,04/13,Ross Gardens/Cromarty Drive,Dundee,Dundee,d7be4ef1-b38b-42b3-8bd0-d881393b7e50,2013,13,Ross Gardens/Cromarty Drive,Lochee
+26,02/84,95 Dundee Road,West Ferry,Dundee,c3c6c0e6-7a92-413e-8021-b412bae1506b,1984,42,"95 Road, West Ferry",Broughty Ferry
+27,05/87,74 / 76 Camphill Road,Broughty Ferry,Dundee,fc404fb8-20af-4e9e-8b2b-954fb56ecdec,1987,39,"74 / 76 Camphill Road, Broughty Ferry",Broughty Ferry
+28,06/93,Harestane Place/Pitempton Road,Dundee,Dundee,e73a061b-9805-4cf2-8354-2c4450482248,1993,33,Harestane Place/Pitempton Road,Kirkton
+29,04/94,South Of Richmond Terrace,Dundee,Dundee,4a4c03d1-624c-4874-bc57-f943d7f30d5a,1994,32,South Of Richmond Terrace,Dundee Law
+30,01/95,Langlea Nursery,Langlea Place,Broughty Ferry,056de7d8-0b6e-4c42-b89d-e53bb23ce0ad,1995,31,"Langlea Nursery, Langlea Place, Broughty Ferry",Broughty Ferry
+31,01/00,Redcroft,432 Blackness Road,Dundee,12194f77-34ea-4f28-93ad-7dd56544b888,2000,26,"Redcroft, 432 Blackness Road",Balgay
+32,01/94,Stirling House,Netherton Cottage,Craigiebarn Road,71f44a98-1b04-48b4-abaf-fd2ded30f919,1994,32,"Stirling House, Netherton Cottage, Craigiebarn Road",Craigiebank
+33,01/02,7 Hill Road,Broughty Ferry,Dundee,43cf91ec-338a-4f4f-8319-19f136bf1030,2002,24,"7 Hill Road, Broughty Ferry",Broughty Ferry
+34,01/03,Claverhouse,Dundee,Dundee,f6ff566c-6888-4db6-8740-db0fae963673,2003,23,Claverhouse,Claverhouse
+35,03/03,Claverhouse,Dundee,Dundee,5125c60c-92b8-41bb-962d-859c14d60ed3,2003,23,Claverhouse,Claverhouse
+36,05/03,Seabourne Gardens,Broughty Ferry,Dundee,a6946162-1d7c-4c94-b566-000c3b665b22,2003,23,"Seabourne Gardens, Broughty Ferry",Broughty Ferry
+37,05/04,103 Strathern Road,Broughty Ferry,Dundee,4b068972-892d-40d1-91e7-e8cf0a72e5f5,2004,22,"103 Strathern Road, Broughty Ferry",Broughty Ferry
+38,05/83,Balgowan School,Strathmartine Road,Dundee,c4feaf07-a057-438b-a3b2-dc1d41c374dc,1983,43,"Balgowan School, Strathmartine Road",Kirkton
+39,05/02,Kings Cross Hospital,Clepington Road,Dundee,72ec4fca-2ba0-430e-ab72-4d81cad8c7fd,2002,24,"Kings Cross Hospital, Clepington Road",The Glens
+40,01/05,Also Boundary For Tpo No 04/05,King'S Cross Road,Dundee,e72a7910-3569-4d6d-96b3-cc2b9899dbaa,2005,21,"Also Boundary For Tpo No 04/05, King'S Cross Road",Lochee
+41,08/05,Rockwell Solutions,Unit 1,Brunel Road,1ae156a6-7e81-4112-a4c0-d735fbd7eb66,2005,21,"Rockwell Solutions, Unit 1, Brunel Road",Camperdown
+42,04/10,35 Albert Road,Broughty Ferry,Dundee,62cf1a2c-d50d-44a5-819e-91fcfa6d1100,2010,16,"35 Albert Road, Broughty Ferry",Broughty Ferry
+43,04/83,Annfield House,96 Fort Street,Broughty Ferry,c6a2ae2f-6272-4fec-b0dd-0185f9a06678,1983,43,"Annfield House, 96 Fort Street, Broughty Ferry",Broughty Ferry
+44,03/86,Tayfield Works,Seafield Road,Dundee,49d78b3b-e79c-42f2-97c6-eaccd48d3326,1986,40,"Tayfield Works, Seafield Road",Broughty Ferry
+45,03/93,5-9 Fairfield Road,West Ferry,Dundee,651eae44-977d-41ce-a705-7ca0642e9e27,1993,33,"5-9 Fairfield Road, West Ferry",Broughty Ferry
+46,04/87,Panmure Terrace /,Abercromby Street,Broughty Ferry,969f732d-1a9e-4b95-a08f-c30f974d8b77,1987,39,"Panmure Terrace /, Abercromby Street, Broughty Ferry",Broughty Ferry
+47,01/98,Vernonholme,Riverside Drive,Dundee,f4643d4c-9404-4d88-9a10-bd9f70c1ad51,1998,28,"Vernonholme, Riverside Drive",West End
+48,03/02,47 Albert Road,Broughty Ferry,Dundee,5aaa5864-c85f-4294-8d5a-61c52564eaab,2002,24,"47 Albert Road, Broughty Ferry",Broughty Ferry
+49,04/04,Abertay Gardens,Broughty Ferry,Dundee,cd5b4332-f9e1-4c6a-8bd0-9822782be87c,2004,22,"Abertay Gardens, Broughty Ferry",Broughty Ferry
+50,07/04,Reresmount Place,Land To West,Broughty Ferry,734c2431-ed5a-4f68-a33a-61f6e24d6185,2004,22,"Reresmount Place, Land To West, Broughty Ferry",Broughty Ferry
+51,10/04,9A Seabourne Gardens,Broughty Ferry,Dundee,a6c11243-d177-4c69-8249-a23b75113b07,2004,22,"9A Seabourne Gardens, Broughty Ferry",Broughty Ferry
+52,05/05,North Grange Farm,Arbroath Road,Dundee,0e725fa3-d874-4501-8c3a-40860969f688,2005,21,"North Grange Farm, Arbroath Road",Broughty Ferry
+53,02/07,80 Forthill Road,Broughty Ferry,Dundee,5b38c6f3-aaf9-4dea-a06e-b348103b9596,2007,19,"80 Forthill Road, Broughty Ferry",Broughty Ferry
+54,04/06,Land West Of Macalpine Road,Dundee,Dundee,72f697a1-b197-4d6b-accf-3580c03fc67e,2006,20,Land West Of Macalpine Road,Ardler
+55,06/06,Harefield House,4 Clement Park Place,Dundee,3eb747cf-8699-432a-a9b9-155b23d93813,2006,20,"Harefield House, 4 Clement Park Place",Lochee
+56,06/84,Baldragon Wood,Clatto,Dundee,43e51752-1f13-483a-bfab-6987d9ffb5b5,1984,42,"Baldragon Wood, Clatto",St Marys
+57,07/07,North Balmossie Street,Panmurefield 1,Dundee,9fd06048-4e34-4f7b-9177-d82db6a130df,2007,19,"North Balmossie Street, Panmurefield 1",Broughty Ferry
+58,08/07,12 Briarwood Terrace,Dundee,Dundee,66ba493e-7936-43b5-9999-f6ac6a9a458f,2007,19,12 Briarwood Terrace,Balgay
+59,10/07,30C Albany Road,Broughty Ferry,Dundee,e0b8395f-ccab-44ec-8dcd-bb943b7a728a,2007,19,"30C Albany Road, Broughty Ferry",Broughty Ferry
+60,10/08,1A Castleroy Road,Broughty Ferry,Dundee,31ee005e-19d6-4424-afd8-44481db9ba85,2008,18,"1A Castleroy Road, Broughty Ferry",Broughty Ferry
+61,03/96,Rhoineach Mhor,588 Strathmartine Road,Dundee,e62ff10e-a702-4977-b05a-b6d452c5b917,1996,30,"Rhoineach Mhor, 588 Strathmartine Road",Kirkton
+62,03/83,"25, 27 Claypotts Road",By Claypotts Castle,Broughty Ferry,6496bd42-7888-4cc6-9c9b-7b555e2b8701,1983,43,"25, 27 Claypotts Road, By Claypotts Castle, Broughty Ferry",Broughty Ferry
+63,05/84,Hazel Avenue / Hazel Drive,Dundee,Dundee,637e75ba-a0b0-4e18-9fd3-b0d9f745c63f,1984,42,Hazel Avenue / Hazel Drive,Whitfield
+64,07/84,21 Hill Street,Broughty Ferry,Dundee,1399e2e8-48d5-443d-bbee-eaa55f30c309,1984,42,"21 Hill Street, Broughty Ferry",Broughty Ferry
+65,08/84,Ncr,Camperdown,Kingsway West,5d2cfdcb-5139-4954-b57f-c891290c8e05,1984,42,"Ncr, Camperdown, Kingsway West",Camperdown
+66,02/87,Woodlands Hotel,Panmure Terrace,Broughty Ferry,3ab98b86-5f85-4898-ab8d-e92a89fa5f7b,1987,39,"Woodlands Hotel, Panmure Terrace, Broughty Ferry",Broughty Ferry
+67,03/87,19 Cedar Road,Broughty Ferry,Dundee,2631e3e8-9860-4c08-bee8-25798721a5f4,1987,39,"19 Cedar Road, Broughty Ferry",Broughty Ferry
+68,07/87,Dundee Crematorium,Macalpine Road,Dundee,b834cb6e-4e75-4320-9225-7a3fc95c2202,1987,39,"Crematorium, Macalpine Road",Ardler
+69,01/88,Swallow Hotel,Kingsway West,Dundee,0cc66a38-e60d-48d9-85ae-39c32e9e376a,1988,38,"Swallow Hotel, Kingsway West",Camperdown
+70,03/88,Anton House,Forthill Road / Cedar Grove,Broughty Ferry,389bebc0-5e42-4240-8f5e-295ee3b869fb,1988,38,"Anton House, Forthill Road / Cedar Grove, Broughty Ferry",Broughty Ferry
+71,05/93,Myrekirk House,Myrekirk Road,Wester Gourdie Industrial Est.,cad4beb1-884f-452e-9a2a-e3d54df25c58,1993,33,"Myrekirk House, Myrekirk Road, Wester Gourdie Industrial Est.",Camperdown
+72,02/94,Longhaugh Hotel,Pitkerro Road,Dundee,7d58fcd8-46e2-4e45-b148-e38002ea292c,1994,32,"Longhaugh Hotel, Pitkerro Road",Stobswell
+73,02/01,Blackness Nursery,Perth Road,Dundee,1c434e2a-78a9-460d-bec3-65f41ac2323b,2001,25,"Blackness Nursery, Perth Road",West End
+74,02/98,45 Craigie Drive And,1 Primrose Bank,Dundee,daf99be9-c91a-41ec-b63c-3b3fdb6e74d0,1998,28,"45 Craigie Drive And, 1 Primrose Bank",Craigiebank
+75,04/03,Claverhouse,Dundee,Dundee,6d800d01-713d-4d4a-9341-d21078fa3a4b,2003,23,Claverhouse,Claverhouse
+76,11/04,63A Camphill Road,Broughty Ferry,Dundee,b05edb7d-b590-4d10-93e4-aa48308d70ca,2004,22,"63A Camphill Road, Broughty Ferry",Broughty Ferry
+77,02/06,Tower Court,Ralston Road,West Ferry,209ff61d-7cfc-46f5-9002-bd4ef228a14a,2006,20,"Tower Court, Ralston Road, West Ferry",Broughty Ferry
+78,04/07,Plot 1,Reres Gardens,Broughty Ferry,f2236689-7ef8-459c-8045-1a62a49ee808,2007,19,"Plot 1, Reres Gardens, Broughty Ferry",Broughty Ferry
+79,05/07,Land South Of,Lawers Drive,Panmurefield,338e97b5-e615-477e-9c9f-73fb5c50db36,2007,19,"Land South Of, Lawers Drive, Panmurefield",Broughty Ferry
+80,13/07,91 Dundee Road,Broughty Ferry,Dundee,1e535917-dcb8-4e2c-874d-d61f20bc1a69,2007,19,"91 Road, Broughty Ferry",Broughty Ferry
+81,01,Gray House,By Invergowrie,Dundee,f820d1f8-2387-4bea-b561-33291a504828,2001,25,"Gray House, By Invergowrie",Ninewells
+82,06/13,Linlathen,Dundee,Dundee,3ed83134-a97c-445e-9d26-179587fec449,2013,13,Linlathen,Other
+83,08/13,Fernbrae Hospital,329 Perth Road,Dundee,fe0a93f3-ecdf-42b1-aefe-209cac8f132e,2013,13,"Fernbrae Hospital, 329 Perth Road",Balgay
+84,01/14,St Lukes Church & Hall,Baldovan Road,Dundee,ae6e8b7d-4c04-4933-89b2-1cf09f1c2a74,2014,12,"St Lukes Church & Hall, Baldovan Road",Downfield
+85,06/83,Ballinard Hotel,Claypotts Road,Broughty Ferry,c9fb3dcd-b10e-47ff-a9d7-894391f10889,1983,43,"Ballinard Hotel, Claypotts Road, Broughty Ferry",Broughty Ferry
+86,01/96,Mayfield,Arbroath Road,Dundee,30e9dbd1-4bd9-4946-99b7-df2cbf44f703,1996,30,"Mayfield, Arbroath Road",Stobswell
+87,01/99,Former Dundee Royal Infirmary,Barrack Road,Dundee,aa7732b0-3299-4a7d-bad0-81edcc75bea2,1999,27,"Former Royal Infirmary, Barrack Road",Dundee Law
+88,07/84,West Pitkerro,Dundee,Dundee,4f03af5e-060a-48b0-a9da-49c449fd2a8d,1984,42,West Pitkerro,Broughty Ferry
+89,01/01,Ncr,Wester Gourdie Industrial Est,Kingsway West,b7d998b5-6b90-45f7-bc86-1179c9798ac0,2001,25,"Ncr, Wester Gourdie Industrial Est, Kingsway West",Camperdown
+90,06/01,Thomas Wise Place,Ninewells,Dundee,9ad98fa9-4338-4762-9b78-27dcce8cd33f,2001,25,"Thomas Wise Place, Ninewells",Ninewells
+91,01/82,Fairmuir Parish Church,Clepington Road,Dundee,536d0278-195e-4b35-943d-6a4cef482f5e,1982,44,"Fairmuir Parish Church, Clepington Road",Downfield
+92,07/03,2 Mansion Drive,Dundee,Dd4 9Dd,410a4c63-b81c-47f0-81ee-497cb56ccd95,2003,23,"2 Mansion Drive, Dd4 9Dd",Claverhouse
+93,08/03,Lethnot Gardens,Barnhill,Dundee,de356d45-13c0-4e7e-9520-7e13aaf6ff6f,2003,23,"Lethnot Gardens, Barnhill",Broughty Ferry
+94,09/04,5 Lethnot Gardens,Barnhill,Dundee,2d2d712f-1477-49da-9c80-95a5e3bef36e,2004,22,"5 Lethnot Gardens, Barnhill",Broughty Ferry
+95,02/05,26 Cedar Road,Broughty Ferry,Dundee,48d17112-1cbd-4148-a83f-9110fad9bc5c,2005,21,"26 Cedar Road, Broughty Ferry",Broughty Ferry
+96,09/05,Ground To West,Millers Wynd,Dundee,266b5713-3d1c-41ee-924c-2e56a88c0170,2005,21,"Ground To West, Millers Wynd",City Centre
+97,05/06,Land To West,Dykes Of Gray Road,Dundee,b3024d2d-197c-4476-acb9-b2f7cf4591a4,2006,20,"Land To West, Dykes Of Gray Road",Camperdown
+98,04/02,The Arboetum,Tom Mcdonald Avenue,Dundee,f6a03852-c66a-4512-a4c2-ef0ea4fe038a,2002,24,"The Arboetum, Tom Mcdonald Avenue",Ninewells
+99,03/07,Lodges,Hill Street,Broughty Ferry,a885bf3d-7d07-4c07-958d-06dbb9cdaaab,2007,19,"Lodges, Hill Street, Broughty Ferry",Broughty Ferry
+100,09/07,22 Foggylea Gardens,Dundee,Dd2 3Lf,d5fe7684-2929-46d7-a5ce-a50a62c7adc7,2007,19,"22 Foggylea Gardens, Dd2 3Lf",Lochee
+101,14/07,Tayside Primary Care Nhs Trust,Dudhope House,15 & 19 Dudhope Terrace,18a38d9d-5176-4dec-b5ab-25f30053ec28,2007,19,"Tayside Primary Care Nhs Trust, Dudhope House, 15 & 19 Dudhope Terrace",Dundee Law
+102,16/08,Darkfalls,1A Castleroy Road,Broughty Ferry,96354f4c-0aa7-4ac2-9942-8b08c5dbd3a7,2008,18,"Darkfalls, 1A Castleroy Road, Broughty Ferry",Broughty Ferry
+103,08/08,Land To West Of Shepherds Loan,And South Of Perth Road,Dundee,cc2c17e4-66aa-409a-9f75-700cd6627a5f,2008,18,"Land To West Of Shepherds Loan, And South Of Perth Road",West End
+104,04/09,Suilven,7 Castleroy Road,Broughty Ferry,2080a3c6-cc95-426c-b843-ec2422a55bc8,2009,17,"Suilven, 7 Castleroy Road, Broughty Ferry",Broughty Ferry
+105,01/10,Rowanbank,Drumgeith Road,Dundee,aa3e9783-22a5-4e75-b3d2-6a76421b56d8,2010,16,"Rowanbank, Drumgeith Road",Whitfield
+106,06/10,Forebank House,2 Eadies Road,Dundee,c9908245-8edf-4fea-9d85-22f4a6b4cf46,2010,16,"Forebank House, 2 Eadies Road",Dundee Law
+107,01/09,Tree Tops,5 Castleroy Road,Broughty Ferry,2087c586-7599-49a5-9813-1477e4ca0ffe,2009,17,"Tree Tops, 5 Castleroy Road, Broughty Ferry",Broughty Ferry
+108,11/08,89 Dundee Road,Broughty Ferry,Dundee,135b38cd-bbba-4b42-bc91-e427ca73317d,2008,18,"89 Road, Broughty Ferry",Broughty Ferry
+109,06/08,Land East Of Foggyley Gardens,Foggyley Gardens,Dundee,606f4288-50ab-49a5-85e9-5a7b8db1e30c,2008,18,"Land East Of Foggyley Gardens, Foggyley Gardens",Lochee
+110,05/10,45 Seafield Road,Broughty Ferry,Dundee,5b1ccede-7a53-4df2-b4b1-420d766c28fa,2010,16,"45 Seafield Road, Broughty Ferry",Broughty Ferry
+111,06/03,Liff Hospital Grounds,Liff,Dundee,c5fe0adb-de58-4dc6-99ab-65995e4cda9a,2003,23,"Liff Hospital Grounds, Liff",Camperdown
+112,01/04,Shiell Street 2,Broughty Ferry,Dundee,1bc6e134-4101-4fc7-80d5-5264c4453470,2004,22,"Shiell Street 2, Broughty Ferry",Broughty Ferry
+113,06/04,Montpelier Gardens,Dundee,Dundee,3af17198-69cf-40b3-81f1-d806edabfdaa,2004,22,Montpelier Gardens,Broughty Ferry
+114,03/05,Armistead House,94 Monifieth Road,Dundee,19664578-ed9c-40d1-a52b-13b62af1204b,2005,21,"Armistead House, 94 Monifieth Road",Broughty Ferry
+115,11/05,Clement Park Nursing Home,Clement Park Place,Dundee,c59a2d58-b286-48ea-8a29-dbce90bee9a9,2005,21,"Clement Park Nursing Home, Clement Park Place",Lochee
+116,12/05,Druburgh Gardens,Lochee,Dundee,a93eb3ac-07da-4322-96c1-3cdbe27b4e6f,2005,21,"Druburgh Gardens, Lochee",Lochee
+117,03/06,10 West Grove Avenue,Dundee,Dundee,9f8977c0-3d91-405b-9a76-42649494ffff,2006,20,10 West Grove Avenue,Balgay
+118,07/06,North Lodge,4 Grosvenor Road,Dundee,beddbd45-16bf-49ef-833d-39b74fec09e2,2006,20,"North Lodge, 4 Grosvenor Road",Broughty Ferry
+119,06/07,Land At,Panmurerfield Den,Panmurefield,c14bc77c-30fa-486c-804f-0c7a04c7f5d6,2007,19,"Land At, Panmurerfield Den, Panmurefield",Broughty Ferry
+120,12/07,Land At Riverside Avenue,Dundee,Dundee,05ec9145-1c1c-4e84-94ff-226ace3b4baa,2007,19,Land At Riverside Avenue,Ninewells
+121,05/08,Dudhope Gardens,Dundee,Dundee,24479061-0e4f-48e2-a837-e922bd818b8f,2008,18,Dudhope Gardens,Dundee Law
+122,14/08,Ravenscraig Gardens,Broughty Ferry,Dundee,3ffccd6d-858b-4702-ab4d-ce703f49de7e,2008,18,"Ravenscraig Gardens, Broughty Ferry",Broughty Ferry
+123,15/08,Flemmings Gymnasium,61 Smalls Wynd,University Of Dundee,0824693c-d6f6-4fd9-9c11-26b601126f3a,2008,18,"Flemmings Gymnasium, 61 Smalls Wynd, University Of",West End
+124,07/09,Redholme,Gardyne Road,Dundee,44756c4a-8831-4742-ab88-ba6809514b06,2009,17,"Redholme, Gardyne Road",Craigiebank
+125,02/10,Fintry Nursery School,Fintry Road,Dundee,cf4c7d55-e61e-46ca-9487-d9c8e8c6083d,2010,16,"Fintry Nursery School, Fintry Road",Fintry
+126,07/10,Avrom House,23 Seafield Road,Broughty Ferry,ae02b164-99de-43cc-95d0-0dc9e5c31954,2010,16,"Avrom House, 23 Seafield Road, Broughty Ferry",Broughty Ferry
+127,08/10,Holly Road,Broughty Ferry,Dundee,fb2c0517-d726-4fe4-aa92-86d21021eeb9,2010,16,"Holly Road, Broughty Ferry",Broughty Ferry
+128,09/10,Invermark Terrace,Barnhill,Dundee,f70644c9-2261-4741-8aed-1c59141d9a0d,2010,16,"Invermark Terrace, Barnhill",Broughty Ferry
+129,10/10,Bonspiel Gardens,Broughty Ferry,Dd5 2Lh,470e7345-876e-4bd8-9490-c30b58827a68,2010,16,"Bonspiel Gardens, Broughty Ferry, Dd5 2Lh",Broughty Ferry
+130,01/11,114 Camphill Road,Broughty Ferry,Dundee,237c52ae-dd28-467d-a55a-913ba0b3543b,2011,15,"114 Camphill Road, Broughty Ferry",Broughty Ferry
+131,01/12,Braeknowe,430 Blackness Road,Dundee,6082a4e8-1ef2-4cd7-af7a-92f9a6097c4d,2012,14,"Braeknowe, 430 Blackness Road",Balgay
+132,03/11,73 Camphill Road,Broughty Ferry,Dundee,84a387ca-8867-460b-a86f-d4f5a82312f2,2011,15,"73 Camphill Road, Broughty Ferry",Broughty Ferry
+133,11/10,Land At 63 Reres Gardens,Broughty Ferry,Dundee,05ce246d-8ada-4761-acfd-7a612cead5d2,2010,16,"Land At 63 Reres Gardens, Broughty Ferry",Broughty Ferry
+134,02/11,37A Mains Loan,Dundee,Dundee,5a587c4c-6904-4897-81dd-c9395fa6dc8a,2011,15,37A Mains Loan,Mill O' Mains
+135,05/12,Brackenbrae,Albert Road,Dundee,29ed665e-057c-41eb-add4-a0b65e847a37,2012,14,"Brackenbrae, Albert Road",Broughty Ferry
+136,06/12,Elmgrove House,315 South Road,Dundee,f17d960d-f838-47a9-b869-6ba3a483cbe1,2012,14,"Elmgrove House, 315 South Road",Menzieshill
+137,08/12,Dundee College,Gardyne Road,Dundee,6b2d1d1c-6719-4c4b-a610-3a8f730d830b,2012,14,"College, Gardyne Road",Craigiebank
+138,09/12,Land To Southwest,Gemini Crescent,Dundee,9955dffe-d174-4ef7-b2af-5f27fcab5985,2012,14,"Land To Southwest, Gemini Crescent",Ninewells
+139,10/12,The Glens,Dundee,Dundee,64f7c7d5-753e-4226-881b-763b16d44163,2012,14,The Glens,The Glens
+140,11/12,10 Forthill Road,Broughty Ferry,Dundee,93d5bcb1-4678-47be-bfdc-b136e236e35a,2012,14,"10 Forthill Road, Broughty Ferry",Broughty Ferry
+141,01/13,Byron Crescent,Dundee,Dundee,0977ec95-8396-43c5-b0c3-df5123b032f8,2013,13,Byron Crescent,The Glens
+142,02/13,Parkview School,309 Blackness Road,Dundee,8dc61595-1bf3-48a7-85fa-769f165d3adf,2013,13,"Parkview School, 309 Blackness Road",Balgay
+143,03/13,N Of Scotland Water Authority,Stobsmuir Road,Dundee,c729af95-ae9f-4884-9d87-4af3ffc4398a,2013,13,"N Of Scotland Water Authority, Stobsmuir Road",Craigiebank
+144,07/12,43 Albany Road,Broughty Ferry,Dundee,ba391062-dc43-468d-bb46-509d61fbb198,2012,14,"43 Albany Road, Broughty Ferry",Broughty Ferry
+145,05/13,Windsor Court,Broughty Ferry,Dundee,2dc4e73b-0076-43e0-afee-cd1dbc0130a7,2013,13,"Windsor Court, Broughty Ferry",Broughty Ferry
+146,03/14,1 Norrie Street,Broughty Ferry,Dundee,4ca776b5-3136-4a1e-8139-dc579dfbb8e1,2014,12,"1 Norrie Street, Broughty Ferry",Broughty Ferry
+147,04/14,Seymour Lodge,259 Perth Road,Dundee,0409ad09-0226-4866-ab4a-3d41bc927471,2014,12,"Seymour Lodge, 259 Perth Road",Balgay
+148,02/16,48 Adelaide Place,Dundee,Dundee,3c81f456-5c27-4f9f-8727-757bc265d660,2016,10,48 Adelaide Place,Dundee Law
+149,01/17,Invercarse Hotel,371 Perth Road,Dundee,3dab18ef-cfa6-46be-9aca-cee129b186d9,2017,9,"Invercarse Hotel, 371 Perth Road",Ninewells
+150,01/16,33 Reres Road,Broughty Ferry,Dundee,d3d7e5ba-fac3-4fef-99fa-86292f41e3b4,2016,10,"33 Reres Road, Broughty Ferry",Broughty Ferry
+151,01/19,158 Nethergate,Dundee,Dundee,d52bb616-13eb-4d28-b31d-5725cd35e12f,2019,7,158 Nethergate,City Centre
+152,02/19,Dundee,3 Farington Gardens,Dundee,75e8af89-846d-4651-92f8-291c5f09987a,2019,7, 3 Farington Gardens,Balgay
+153,01/94,Stirling House,Netherton Cottage,Craigiebarn Road,e71ba6d5-0558-4faa-a628-896403a4e4d9,1994,32,"Stirling House, Netherton Cottage, Craigiebarn Road",Craigiebank
+154,01/23,13B Richmond Terrace,Garden Ground To West,Dundee,8d95f095-0560-4fce-84a2-ba7471280a43,2023,3,"13B Richmond Terrace, Garden Ground To West",Dundee Law
+155,01/25,Dundee,Dundee,Dundee,298beaaf-e3a0-424c-8dfd-c0bbc8832db7,2025,1,,Other
