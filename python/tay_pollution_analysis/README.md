@@ -1,4 +1,4 @@
-# Testing in Python: Tay Cities Pollution Data Analysis
+# Tay Cities Pollution Data Analysis
 My 'tayPollutionAnalysis.pynb' notebook analyses the Tay Cities Sewage dataset, which records pollution levels across cities and rivers in the Tay region of Scotland between 2010 and 2020.
 
 The aim was to build a reliable, testable data pipeline that moves from raw data through to cleaned outputs, recursive analysis, mathematical prediction, and visualisation. Testing has been included to confirm each function works correctly.
@@ -9,14 +9,15 @@ The aim was to build a reliable, testable data pipeline that moves from raw data
 
 ### Average Sewage Levels per River
 A bar chart visualising the average sewage levels per river, revealing that the Elricht has the highest average sewage levels at 36.8, and Leven has the lowest at 34.4.
+![Avg_Pollution](visualisations/bar_avg_pollution.png)
 
-
-### Predicted Contamination Trends per City
+### Predicted Contamination Trends
 Line chart showing the historical and predicted pollution levels using Fibonacci trend modelling.
+![Contamination_Trends](visualisations/line_historical_predicted.png)
 
 ### Distribution of Pollution Levels
 Histogram showing the distribution of pollution values accross the data.
-
+![Pollution_Distribution](visualisations/histogram_pollution.png)
 
 ## Functions
 load_data()  
